@@ -1,0 +1,14 @@
+2019-09-13 14:35:38.049110 - /home/tuipik/Pictures/UntitledFolder/-8J7bWssWdc.jpg ---CONVERTED to--- /home/tuipik/Pictures/UntitledFolder/-8J7bWssWdc_converted.png
+2019-09-13 14:35:38.066784 - /home/tuipik/Pictures/UntitledFolder/-8J7bWssWdc.jpg --- MODIFIED
+2019-09-13 14:35:38.428490 - /home/tuipik/Pictures/UntitledFolder/0pBXLtc_ty4.jpg ---CONVERTED to--- /home/tuipik/Pictures/UntitledFolder/0pBXLtc_ty4_converted.png
+2019-09-13 14:35:38.437936 - /home/tuipik/Pictures/UntitledFolder/0pBXLtc_ty4.jpg --- MODIFIED
+2019-09-13 14:35:39.950696 - /home/tuipik/Pictures/UntitledFolder/6OtyUUIQ40k.jpg ---CONVERTED to--- /home/tuipik/Pictures/UntitledFolder/6OtyUUIQ40k_converted.png
+2019-09-13 14:35:39.965594 - /home/tuipik/Pictures/UntitledFolder/6OtyUUIQ40k.jpg --- MODIFIED
+2019-09-13 14:35:41.367505 - /home/tuipik/Pictures/UntitledFolder/8-EpZr2U6Ec.jpg ---CONVERTED to--- /home/tuipik/Pictures/UntitledFolder/8-EpZr2U6Ec_converted.png
+2019-09-13 14:35:41.382530 - /home/tuipik/Pictures/UntitledFolder/8-EpZr2U6Ec.jpg --- MODIFIED
+2019-09-13 14:35:42.078527 - /home/tuipik/Pictures/UntitledFolder/8LYJyFs3b-I.jpg ---CONVERTED to--- /home/tuipik/Pictures/UntitledFolder/8LYJyFs3b-I_converted.png
+2019-09-13 14:35:42.089648 - /home/tuipik/Pictures/UntitledFolder/8LYJyFs3b-I.jpg --- MODIFIED
+2019-09-13 14:35:42.449074 - /home/tuipik/Pictures/UntitledFolder/902945a58332accca760cc750e20dce0509a6889d3f0e97060cede2124a5a9cb_full.jpg ---CONVERTED to--- /home/tuipik/Pictures/UntitledFolder/902945a58332accca760cc750e20dce0509a6889d3f0e97060cede2124a5a9cb_full_converted.png
+2019-09-13 14:35:42.464907 - /home/tuipik/Pictures/UntitledFolder/902945a58332accca760cc750e20dce0509a6889d3f0e97060cede2124a5a9cb_full.jpg --- MODIFIED
+2019-09-13 14:35:42.854776 - /home/tuipik/Pictures/UntitledFolder/12039647_903960429639314_1836590117226846715_n.jpg ---CONVERTED to--- /home/tuipik/Pictures/UntitledFolder/12039647_903960429639314_1836590117226846715_n_converted.png
+2019-09-13 14:35:42.866327 - /home/tuipik/Pictures/UntitledFolder/12039647_903960429639314_1836590117226846715_n.jpg --- MODIFIED
